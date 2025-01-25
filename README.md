@@ -9,11 +9,11 @@ testar bypass de códigos de status HTTP 403 em endpoints. Simula diferentes cab
 1. git clone https://github.com/icycodesec/403bypass.git
 2. cd 403bypass
 
-Install the required dependencies:
-3. pip install requests
+3. Install the required dependencies:
+4. pip install requests
 
-Run the script in the terminal
-4. python 403map.py
+5. Run the script in the terminal
+6. python 403map.py
 
 
 📌 Notes / Notas:
