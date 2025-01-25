@@ -6,12 +6,16 @@
 testar bypass de códigos de status HTTP 403 em endpoints. Simula diferentes cabeçalhos HTTP e utiliza cookies PHPSESSID definidos pelo usuário para explorar possíveis métodos de acesso a recursos restritos. O script é fácil de usar e personalizável para diversas necessidades de análise de segurança.
 
 # How to Install:
-1. Make sure you have Python 3.7+ installed on your system.
-2. git clone https://github.com/icycodesec/403bypass.git
-3. cd 403bypass
+1. git clone https://github.com/icycodesec/403bypass.git
+2. cd 403bypass
 
-4. Install the required dependencies:
-pip install requests
+Install the required dependencies:
+3. pip install requests
 
-3.Run the script in the terminal:
-python 403map.py
+Run the script in the terminal
+4. python 403map.py
+
+
+📌 Notes / Notas:
+This tool is intended for educational purposes only. Use it responsibly and only with proper authorization.
+Esta ferramenta é destinada a fins educacionais apenas. Use-a de forma responsável e somente com autorização adequada.
